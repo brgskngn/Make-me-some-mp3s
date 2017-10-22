@@ -1,4 +1,4 @@
-puts 'This program converts FLAC, WAV, OGG and MP4 to MP3. Please press'
+puts 'This program converts audio and video files to MP3. Please press'
 puts
 puts '[1] if your source files are FLAC'
 puts '[2] if your source files are WAV'
